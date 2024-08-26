@@ -65,6 +65,19 @@
         "miktar": "₺750",
         "promo_code": "ASLAN750",
         "slider_img": ""
+      },
+      {
+        "url": "https://bit.ly/aslanxgala",
+        "desc": [
+          "100 FREE SPIN"
+        ],
+        "site": "galabet",
+        "sort": null,
+        "color": "#58a400",
+        "miktar": "₺100",
+        "promo_code": null,
+        "promo_code_yok": "VEYA 100 FREE BET",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -173,6 +186,10 @@
           {
             "site": "mariobet",
             "sort": "5"
+          },
+          {
+            "site": "galabet",
+            "sort": "6"
           }
         ]
       },
