@@ -4,18 +4,6 @@
     "logo": "",
     "sites": [
       {
-        "url": "https://bit.ly/aslanxbetewin",
-        "desc": [
-          "999TL KAYIT BONUSU"
-        ],
-        "site": "betewin",
-        "sort": null,
-        "color": "#ff8d14",
-        "miktar": "₺999",
-        "promo_code_yok": "KAYIT OL 999TL BONUS AL",
-        "slider_img": ""
-      },
-      {
         "url": "https://bit.ly/aslanxbankobet",
         "desc": [
           "1.111 TL NAKİT - 111 FREE SPIN"
@@ -89,6 +77,18 @@
         "miktar": "₺100",
         "promo_code": null,
         "promo_code_yok": "VEYA 100 FREE BET",
+        "slider_img": ""
+      },
+      {
+        "url": "https://bit.ly/aslanxbetewin",
+        "desc": [
+          "999TL KAYIT BONUSU"
+        ],
+        "site": "betewin",
+        "sort": null,
+        "color": "#ff8d14",
+        "miktar": "₺999",
+        "promo_code_yok": "KAYIT OL 999TL BONUS AL",
         "slider_img": ""
       }
     ],
@@ -180,10 +180,6 @@
         "sort": "3",
         "sites": [
           {
-            "site": "betewin",
-            "sort": "0"
-          },
-          {
             "site": "bankobet",
             "sort": "1"
           },
@@ -206,6 +202,10 @@
           {
             "site": "galabet",
             "sort": "6"
+          },
+          {
+            "site": "betewin",
+            "sort": "7"
           }
         ]
       },
