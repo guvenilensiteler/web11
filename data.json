@@ -90,6 +90,18 @@
         "miktar": "₺999",
         "promo_code_yok": "KAYIT OL 999TL BONUS AL",
         "slider_img": ""
+      },
+      {
+        "url": "https://bit.ly/aslanbetorspin",
+        "desc": [
+          "ÜYE OL DENEME BONUSUNU AL!"
+        ],
+        "site": "betorspin",
+        "sort": null,
+        "color": "#ff7b31",
+        "miktar": "₺888",
+        "promo_code_yok": "",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -206,6 +218,10 @@
           {
             "site": "betewin",
             "sort": "7"
+          },
+          {
+            "site": "betorspin",
+            "sort": "8"
           }
         ]
       },
