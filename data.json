@@ -67,19 +67,6 @@
         "slider_img": ""
       },
       {
-        "url": "https://bit.ly/aslanxgala",
-        "desc": [
-          "100 FREE SPIN"
-        ],
-        "site": "galabet",
-        "sort": null,
-        "color": "#58a400",
-        "miktar": "₺100",
-        "promo_code": null,
-        "promo_code_yok": "VEYA 100 FREE BET",
-        "slider_img": ""
-      },
-      {
         "url": "https://bit.ly/aslanxbetewin",
         "desc": [
           "999TL KAYIT BONUSU"
@@ -212,16 +199,12 @@
             "sort": "5"
           },
           {
-            "site": "galabet",
+            "site": "betewin",
             "sort": "6"
           },
           {
-            "site": "betewin",
-            "sort": "7"
-          },
-          {
             "site": "betorspin",
-            "sort": "8"
+            "sort": "7"
           }
         ]
       },
