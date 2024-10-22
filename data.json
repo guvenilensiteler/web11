@@ -41,18 +41,6 @@
         "slider_img": ""
       },
       {
-        "url": "https://cutt.ly/ZeSv4Ydn",
-        "desc": [
-          "250 TL + 250 FREE SPIN DENEME BONUSU"
-        ],
-        "site": "betist",
-        "sort": null,
-        "color": "#bd00e7",
-        "miktar": "₺250",
-        "promo_code_yok": "KAYIT OL DENEME BONUSUNU AL!",
-        "slider_img": ""
-      },
-      {
         "url": "https://bit.ly/aslanxbankobet",
         "desc": [
           "1.111 TL NAKİT - 111 FREE SPIN"
@@ -104,6 +92,30 @@
         "slider_img": ""
       },
       {
+        "url": "https://bit.ly/aslanbetorspin",
+        "desc": [
+          "ÜYE OL DENEME BONUSUNU AL!"
+        ],
+        "site": "betorspin",
+        "sort": null,
+        "color": "#ff7b31",
+        "miktar": "₺888",
+        "promo_code_yok": "",
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/ZeSv4Ydn",
+        "desc": [
+          "250 TL + 250 FREE SPIN DENEME BONUSU"
+        ],
+        "site": "betist",
+        "sort": null,
+        "color": "#bd00e7",
+        "miktar": "₺250",
+        "promo_code_yok": "KAYIT OL DENEME BONUSUNU AL!",
+        "slider_img": ""
+      },
+      {
         "url": "https://bit.ly/aslanxmario",
         "desc": [
           "KAYIT OL DENEME BONUSUNU AL!"
@@ -125,18 +137,6 @@
         "color": "#ff8d14",
         "miktar": "₺999",
         "promo_code_yok": "KAYIT OL 999TL BONUS AL",
-        "slider_img": ""
-      },
-      {
-        "url": "https://bit.ly/aslanbetorspin",
-        "desc": [
-          "ÜYE OL DENEME BONUSUNU AL!"
-        ],
-        "site": "betorspin",
-        "sort": null,
-        "color": "#ff7b31",
-        "miktar": "₺888",
-        "promo_code_yok": "",
         "slider_img": ""
       }
     ],
@@ -240,35 +240,35 @@
             "sort": "3"
           },
           {
-            "site": "betist",
+            "site": "bankobet",
             "sort": "4"
           },
           {
-            "site": "bankobet",
+            "site": "betkom",
             "sort": "5"
           },
           {
-            "site": "betkom",
+            "site": "tarafbet",
             "sort": "6"
           },
           {
-            "site": "tarafbet",
+            "site": "bahiscom",
             "sort": "7"
           },
           {
-            "site": "bahiscom",
+            "site": "betorspin",
             "sort": "8"
           },
           {
-            "site": "mariobet",
+            "site": "betist",
             "sort": "9"
           },
           {
-            "site": "betewin",
+            "site": "mariobet",
             "sort": "10"
           },
           {
-            "site": "betorspin",
+            "site": "betewin",
             "sort": "11"
           }
         ]
